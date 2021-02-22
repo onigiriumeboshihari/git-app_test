@@ -1,3 +1,5 @@
-def index
-  
+class TestsController < ApplicationController
+  def index
+    
+  end
 end
